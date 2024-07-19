@@ -1,0 +1,25 @@
+* {
+  background-color: darkred;
+}
+
+h2 {
+  color: indianred;
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+}
+
+form, p {
+  padding: 50px;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  background-color: black;
+  color: indianred;
+  padding: 20px;
+  border-radius: 30px;
+  margin-top: 20px;
+  cursor: pointer;
+}
